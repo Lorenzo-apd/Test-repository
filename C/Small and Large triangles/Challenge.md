@@ -15,7 +15,7 @@ The first line of each test file contains a single integer .  Lines follow with 
 
 $(1 \leq n \leq 100)$  
 $(1 \leq a,b,c \leq 70)$  
-$(a+b) > (ca+c+b) \ \text{and} \ b+c > a$  
+$(a+b) > (ca+c>b) \ \text{and} \ b+c > a$  
 
 ## Output Format
 Print exactly *n* lines. On each line print *3* space-separated integers, the *a*, *b* and *c* of the corresponding triangle.
