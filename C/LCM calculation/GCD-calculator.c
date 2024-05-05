@@ -22,7 +22,7 @@ int main() {
 
 }
 
-GCD (int a, int b) {
+int GCD (int a, int b) {
 // Returns the greatest common divisor (GCD) of two integers
 
 int remainder;
